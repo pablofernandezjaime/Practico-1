@@ -1,6 +1,6 @@
 /*
 Titulo: Problema de asignacion de variables
-Auntor:Pablo Jesús Fernández Jaime
+Auntor:Pablo JesÃºs FernÃ¡ndez Jaime
 Descripcion: Segundo ejercicion del practico de pregramacion 1
 Fecha: 2024-01-18
 */
